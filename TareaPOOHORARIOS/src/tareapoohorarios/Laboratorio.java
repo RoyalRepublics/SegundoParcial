@@ -33,8 +33,8 @@ public class Laboratorio {
     }
 
     public boolean verificarDisponibilidad(String horario) {
-        // Lógica para verificar la disponibilidad del laboratorio en un horario específico
-        return true; // Cambia la lógica según tus necesidades
+        
+        return true; 
     }
 }
 
